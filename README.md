@@ -1,3 +1,8 @@
+# practice-13-monsters-react
+
+## Practice Project - course project;
+## You can check it here: https://kherma.github.io/practice-13-monsters-react/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
